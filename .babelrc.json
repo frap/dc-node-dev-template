@@ -1,0 +1,3 @@
+{
+    "presets": ["@babel/preset-env", "import-to-require", { "modules": [ "index" ] } ]
+}
